@@ -16,7 +16,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
   final _phoneController = TextEditingController();
   final _passwordController = TextEditingController();
   final _confirmPasswordController = TextEditingController();
-
+  
   bool _isMale = false;
   bool _isFemale = false;
 
